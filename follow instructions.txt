@@ -1,0 +1,9 @@
+PS G:\argon-dashboard-flask-master> cd flask-datta-able
+
+PS G:\argon-dashboard-flask-master\flask-datta-able> git clone https://github.com/app-generator/flask-datta-able.git
+
+PS G:\argon-dashboard-flask-master\flask-datta-able> set FLASK_APP=run.py
+
+PS G:\argon-dashboard-flask-master\flask-datta-able>  set FLASK_ENV=development
+
+PS G:\argon-dashboard-flask-master\flask-datta-able> flask run
